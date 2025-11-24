@@ -7,6 +7,7 @@ Notebook: ml_boosting_02.ipynb
 Este notebook implementa un flujo completo de Machine Learning basado en Boosting para predecir enfermedades a partir de datos clínicos. Se combinan varias técnicas de ensamble —AdaBoost, Gradient Boosting y XGBoost— con análisis exploratorio, preprocesamiento y tuning de hiperparámetros para maximizar el rendimiento predictivo.
 
 📂 Contenidos del Notebook
+
 1️⃣ Integración y exploración de datos
 
 - Carga de tres archivos independientes y unión en un solo dataset.
